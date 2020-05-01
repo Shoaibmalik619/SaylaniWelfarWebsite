@@ -1,0 +1,521 @@
+@media only screen and (max-width:360px)
+{
+    body
+    {
+        background-color: rgb(248, 248, 248);
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #head{
+        background-color: royalblue;
+        color: white;
+        width: 260%;
+        position: absolute;
+        top: 0em;
+        padding-left: 0em;
+        padding: 1em;
+        margin-left: -3vw;
+    }
+    #mobiletext{
+        font-size: small;
+        position: absolute;
+        top: 3.5em; 
+        left: 0em;
+        background-color: royalblue;
+        width: 100%;
+        padding-left: 4.4em;
+    }
+    #mobiletext2{
+        background-color: royalblue;
+        font-size: small;
+        position: absolute;
+        top: 1.2em; 
+        left: 0em;
+        background-color: royalblue;
+        width: 100%;
+        padding: 0.4em;
+        padding-left: 7.7em;
+    } 
+    #bu{
+        background-color: royalblue;
+        font-size: xx-small;
+        position: absolute;
+        top: 9em;
+        left: 0em;
+        padding: 1em;
+        padding-left: 5em;
+        width: 100%;
+
+    }  
+    #bul{
+        background-color: royalblue;
+        font-size: xx-small;
+        position: absolute;
+        top: 9em;
+        left: 14em;  
+        padding: 1em; 
+    }
+    #bull{
+        background-color: royalblue;
+        font-size: xx-small;
+        position: absolute;
+        top: 9em;
+        left: 25em; 
+        padding: 1em;  
+    } 
+
+    .mobileface{
+        position: relative;
+        left: 1em;
+    }
+    #mobilenav{
+        display: none;
+    }
+   #img22{
+       padding-top: 10.9em;
+       width: 23em;
+       height: 12em;
+       margin-left: -3vw;
+   }
+   #img3{
+       display: unset;
+       position: absolute;
+       top: 7.5em;
+       left: 1em;
+       width: 13em;
+}
+#news{
+    font-size: small;
+    background-color: royalblue;
+    color: white;
+    width: 100%;
+    position: absolute;
+    top: 29em;
+    left: 0em;
+    margin-left: -1vw;
+}
+.fcolor{
+    position: relative;
+    top: 2em;
+    font-size: x-large;
+}
+.scolor{
+    position: relative;
+    top: 2em;
+    font-size: x-large;
+}
+#img4{
+    position: relative;
+    width: 10em;
+    top: 1.4em;
+}
+.text2{
+    display: none;
+}
+.mobiletext2{
+    position: relative;
+    top: 1em;
+    display: unset;
+    text-align: justify;
+    color:rgb(117, 117, 117);
+}
+
+#hhh ,#sss ,#ssss ,#hhhh {
+    display: none;
+}
+.word{
+    background: rgb(49, 89, 209);
+    font-size: medium;
+    color: white;
+    padding-top: 8em;
+    padding-bottom: 6em;
+    padding-right: 7em;
+    width: 100%;
+    height: 40em;
+    margin-top: 3em;
+    margin-left: -10vw;
+}
+.mcolor{
+    color: yellowgreen;
+}
+#s{
+    padding-left: 2.7em;
+}
+#s1{
+    position: absolute;
+    top: 111em;
+    left: 4em;
+}
+#mc{
+    position: absolute;
+    top: 52em;
+    left: 4.8em;
+}
+
+#w{
+    position: absolute;
+    top: 60.5em;
+    left: em;
+    margin-left: -82vw;
+}
+#ww{
+    position: absolute;
+    top: 12em;
+    left: em;
+    margin-left: -83vw;
+}
+#md{
+    position: absolute;
+    top: 58.4em;
+    left: 4.7em;
+}
+#o{
+    position: absolute;
+    top: 66.6em;
+    left: em;
+    margin-left: -74vw;
+    
+}
+#oo{
+    position: absolute;
+    top: 12em;
+    left: em;
+    margin-left: -62vw;
+}
+#me{
+    position: absolute;
+    top: 64.2em;
+    left: 4.8em;
+}
+#r{
+    position: absolute;
+    top: 72em;
+    left: em;
+    margin-left: -59vw;
+}
+#rr{
+    position: absolute;
+    top: 11em;
+    left: em;
+    margin-left: -58vw;
+}
+#mf{
+    position: absolute;
+    top: 70em;
+    left: 4.7em;
+}
+#h4{
+    display: none;
+}
+#mobiletext12{
+    position: absolute;
+    top: 76em;
+    left: 1em;
+}
+#mobiletext13{
+    position: relative;
+    top: 3em;
+    left: 0.2em;
+}
+#ig12{
+    font-size: large;
+    position: absolute;
+    top: 180em;
+    left: -10.1em;
+}
+#fscimg{
+    position: absolute;
+    top: 297em;
+    left: 7em;
+    width: 9em;
+}
+.imga{
+    position: absolute;
+     top: 123em;
+     left: -7.9em;
+
+} 
+.imgaa{
+    width: 20em;
+}
+.imgb{
+    position: absolute;
+     top: 317em;
+     left: 1.2em;
+
+} 
+.imgbb{
+    width: 20em;
+}
+.imgc{
+    position: absolute;
+     top: 333.6em;
+     left: 1.1em;
+
+} 
+.imgcc{
+    width: 20em;
+}
+.imgd{
+    position: absolute;
+     top: 350.3em;
+     left: 1.1em;
+
+} 
+.imgdd{
+    width: 20em;
+}
+.imge{
+    position: absolute;
+     top: 367em;
+     left: 1.1em;
+
+} 
+.imgee{
+    width: 20em;
+}
+.a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 255, 255);
+    color: royalblue;
+    display: inline-block;
+    margin-top: 2em;
+    padding-top: 2em;
+    padding-bottom: 0.4em;
+    padding-left: 6.1em;
+    padding-right: 6.1em;
+    border: rgb(240, 239, 239) solid;
+    position: relative;
+    left: -11vw;
+    width: 8em;
+}
+.b{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 255, 255);
+    color: royalblue;
+    display: inline-block;
+    padding-top: 2em;
+    padding-bottom: 0.4em;
+    padding-left: 6.1em;
+    padding-right: 6.1em;
+    border: rgb(240, 239, 239) solid;
+    position: relative;
+    left: -11vw;
+    width: 8em;
+}
+.c{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 255, 255);
+    color: royalblue;
+    display: inline-block;
+    padding-top: 2em;
+    padding-bottom: 0.4em;
+    padding-left: 6.1em;
+    padding-right: 6.1em;
+    border: rgb(240, 239, 239) solid;
+    position: relative;
+    left: -11vw;
+    width: 8em;
+    
+}
+.d{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 255, 255);
+    color: royalblue;
+    display: inline-block;
+    padding-top: 2em;
+    padding-bottom: 0.4em;
+    padding-left: 6.1em;
+    padding-right: 6.1em;
+    border: rgb(240, 239, 239) solid;
+    position: relative;
+    left: -11vw;
+    width: 8em;
+}
+.e{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 255, 255);
+    color: royalblue;
+    display: inline-block;
+    padding-top: 2em;
+    padding-bottom: 0.4em;
+    padding-left: 6.1em;
+    padding-right: 6.1em;
+    border: rgb(240, 239, 239) solid;
+    position: relative;
+    left: -11vw;
+    width: 8em;
+}
+.f{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 255, 255);
+    color: royalblue;
+    display: inline-block;
+    padding-top: 2em;
+    padding-bottom: 0.4em;
+    padding-left: 6.1em;
+    padding-right: 6.1em;
+    border: rgb(240, 239, 239) solid;
+    position: relative;
+    left: -11vw;
+    width: 8em;
+}
+#up{
+    font-size: small;
+    margin-left: -07em;
+    
+}
+#up9{
+    position: absolute;
+    top: 2.1em;
+    left: 3.1em;
+}
+#upimg{
+    position: absolute;
+    top: 5em;
+    left: 4em;
+}
+.la{
+    position: absolute;
+    top: 258em;
+    left: 0.8em;
+}
+.hs{
+    position: absolute;
+    top: 263em;
+    left: 0.8em;
+}
+.tu{
+    position: absolute;
+    top: 268em;
+    left: 0.8em;
+}
+.tv{
+    position: absolute;
+    top: 273em;
+    left: 0.8em;
+}
+#up2{
+    font-size: small;
+    position: absolute;
+    top: 341em;
+    left: 1em;
+}
+.ht{
+    position: absolute;
+    top: 280em;
+    left: -42em;
+}
+.l{
+    padding: 6em;
+    width: 100%;
+    height: 80em;
+    margin-left: -03em;
+}
+.last{
+    position: absolute;
+    top: 395em;
+    width: 100%;
+    padding-right: 2.9em;
+}
+.laster{
+    position: absolute;
+    top: 477em;
+    left: -4em;
+    width: 89%;
+}
+#info{
+    position: relative;
+    left: -13.1em;
+}
+#spann{
+    position: relative;
+    top: 11.5em;
+    left: -11.8em;
+}
+#u6{
+    position: absolute;
+    top: 20.5em;
+    left: em;
+    margin-left: -12.3em;
+}
+#Useful{
+    position: absolute;
+    top: 347em;
+    left: 0.6em;
+}
+
+#lll{
+    display: none;   
+}
+
+#lllll{
+    display: none;
+    
+}
+#u8{
+    position: relative;
+    top: 6em;
+    left: -1.3em;
+    width: 26em;
+}
+#connect{
+    position: absolute;
+    top: 349.8em;
+    width: 50%;
+    left: 0.1em;
+}
+#shoaibmalik{
+    position: absolute;
+    top: 415em;
+    left: -10em;
+}
+.sos{
+    position: absolute;
+    top: 412.7em;
+    left: -4.2em;
+}
+#upbutter{
+    display: none;
+}
+.mobliedow12{
+    display: unset;
+    position: absolute;
+    top: 2em;
+}
+#obliedow12{
+    display: unset;
+    width: 2.9em;
+    position: absolute;
+    top: 6em;
+    left: 18.3em;  
+}
+#wweraw{
+    position: absolute;
+    top: 10.2em;
+    left: -01em;
+}  
+.down{
+    width: 27em;
+} 
+#wwq1{
+    padding-left: 23em;
+}
+#wwq2{
+    padding-left: 18.2em;
+}
+#wwq3{
+    padding-left: 19.3em;
+}
+#wwq4{
+    padding-left: 26em;
+}
+
+
+
+
+
+
+
+}
+
+
